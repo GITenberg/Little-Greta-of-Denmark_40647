@@ -1,0 +1,28 @@
+_repo: Little-Greta-of-Denmark_40647
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40647-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bailey, Bernadine
+    alias: Bailey, Bernadine Freeman
+    birthdate: 1901
+    deathdate: 1995
+    gutenberg_agent_id: '40747'
+    url: http://www.gutenberg.org/2009/agents/40747
+description: ''
+gutenberg_issued: '2012-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40647'
+  lccn: '39011055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Denmark -- Juvenile literature'
+- !lcc 'PZ'
+title: Little Greta of Denmark
+url: http://www.gutenberg.org/ebooks/40647
